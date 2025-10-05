@@ -18,8 +18,8 @@ I love exploring how **AI, Cloud, and Blockchain** can transform healthcare, edu
 
 **Frontend:** Next.js · React · Expo · React Native  
 **Backend:** Node.js · Express.js · Python · FastAPI · Django · Firebase · C# · ASP.NET  
-**Database:** PostgreSQL · MongoDB · SQLServer 
-**Cloud & Tools:** AWS · Docker · GitHub Actions · Google Cloud Services (Firestore) 
+**Database:** PostgreSQL · MongoDB · SQLServer  
+**Cloud & Tools:** AWS · Docker · GitHub Actions · Google Cloud Services (Firestore)  
 **AI & Data:** Python · Numpy · Pandas · Matplotlib · Seaborn · Scikit-learn · Pytorch · Machine Learning · Data Science  
 
 ---
@@ -33,7 +33,7 @@ A digital healthcare ecosystem enabling doctors and patients to connect, manage 
 
 > Empowering digital healthcare with intelligence and accessibility.
 
-#### 🩺 **NoblePay**
+#### 💵 **NoblePay**
 A cross-platform mobile app for international money transfer from West African countries to USA, UK and CANADA
 
 **Tech:** React.js · React Native (Expo) · Express.js · MongoDB · ASP.NET · SQLServer  
